@@ -124,6 +124,14 @@ ARM template のライティングツールの位置付けなら今からでも 
 
 ※ 参考：[Dev Container の使い方](https://code.visualstudio.com/docs/remote/containers#_getting-started)
 
+# まとめ
+
+- dev container は、開発環境、ツール毎にスクリプトがブロック的に用意されている
+- 組み合わせで好みのものが作れる。例えば、python + .NET Core開発とか、golang + az cli 開発とかも可
+- ただ、ほとんどは debian/ubuntu 前提なので注意
+- 中身は、shell script、真似して独自のものを作るのも容易
+- 繰り返すけど、bicep :muscle: は便利
+
 # 参考
 
 - Dev Container 向けの [script-library](https://github.com/microsoft/vscode-dev-containers/blob/v0.146.0/script-library/README.md)。debian が多い。
