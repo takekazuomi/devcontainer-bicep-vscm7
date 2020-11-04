@@ -30,7 +30,7 @@ section {
 
 ###### by Takekazu Omi(*@Baleen.Studio*)
 
-###### 2020/11/04 v1.0.0
+###### 2020/11/04 v1.0.1
 
 ![](./media/1x1.png)
 ![left w:300px](https://www.baleen.studio/img/company/img-symbol.png)
@@ -129,8 +129,8 @@ ARM template のライティングツールの位置付けなら今からでも 
 - Dev Container 向けの [script-library](https://github.com/microsoft/vscode-dev-containers/blob/v0.146.0/script-library/README.md)。debian が多い。
 - `az cli` が python製で多くのpyplを使っているようなコードの場合は、alpine のメリットがあまり無いのかなと思う。[Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
 - 今回のスライドは、[Marp]((https://github.com/marp-team/marp-cli#docker))を使いました。ありがとうございます。
-- 今回のコンテンツ、[devcontainer-bicep-vscm7](https://github.com/takekazuomi/devcontainer-bicep-vscm7)にあります
-  -
+- 今回のコンテンツ、[devcontainer-bicep-vscm7](https://github.com/takekazuomi/devcontainer-bicep-vscm7)
+  - [https://www.slideshare.net/takekazuomi/bicep-dev-container](https://www.slideshare.net/takekazuomi/bicep-dev-container)
 
 # 終
 
