@@ -30,7 +30,7 @@ section {
 
 ###### by Takekazu Omi(*@Baleen.Studio*)
 
-###### 2020/11/04 v1.0.1
+###### 2020/11/04 v1.0.2
 
 ![](./media/1x1.png)
 ![left w:300px](https://www.baleen.studio/img/company/img-symbol.png)
